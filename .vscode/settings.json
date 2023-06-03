@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 1000,
+            "driver": "SQLite",
+            "name": "active record",
+            "group": "migrations",
+            "database": "/home/christine/enigma.db/chinook.db"
+        }
+    ]
+}
